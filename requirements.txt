@@ -1,0 +1,5 @@
+pymilvus 
+python-dotenv
+torch
+transformers
+langchain-text-splitters
